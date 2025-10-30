@@ -4,3 +4,5 @@ This is a new file and our first commit.
 This is our code
 
 print ("I am learning git")
+
+This is a change for merging and branching.
